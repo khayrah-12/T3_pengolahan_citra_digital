@@ -1,0 +1,57 @@
+ANALISIS INTENSITAS CITRA
+========================================
+
+Citra 1
+Intensitas minimum : 41
+Intensitas maksimum : 168
+Intensitas rata-rata : 154.90
+Standar deviasi : 15.75
+
+Citra 2
+Intensitas minimum : 0
+Intensitas maksimum : 255
+Intensitas rata-rata : 231.43
+Standar deviasi : 34.25
+
+Citra 3
+Intensitas minimum : 0
+Intensitas maksimum : 250
+Intensitas rata-rata : 231.33
+Standar deviasi : 33.31
+
+Citra 4
+Intensitas minimum : 0
+Intensitas maksimum : 255
+Intensitas rata-rata : 237.76
+Standar deviasi : 39.32
+
+Citra 5
+Intensitas minimum : 0
+Intensitas maksimum : 255
+Intensitas rata-rata : 239.69
+Standar deviasi : 28.30
+
+Citra 6
+Intensitas minimum : 0
+Intensitas maksimum : 255
+Intensitas rata-rata : 239.52
+Standar deviasi : 32.10
+
+Citra 7
+Intensitas minimum : 91
+Intensitas maksimum : 255
+Intensitas rata-rata : 239.55
+Standar deviasi : 20.79
+
+Citra 8
+Intensitas minimum : 0
+Intensitas maksimum : 255
+Intensitas rata-rata : 239.20
+Standar deviasi : 34.18
+
+Citra 9
+Intensitas minimum : 21
+Intensitas maksimum : 198
+Intensitas rata-rata : 184.62
+Standar deviasi : 21.83
+
